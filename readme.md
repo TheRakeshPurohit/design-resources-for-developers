@@ -969,6 +969,7 @@
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 | [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
+| [shadcn-vue](https://www.shadcn-vue.com/) | Vue port of shadcn-ui. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -997,6 +998,7 @@
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 | [Taiga UI](https://taiga-ui.dev/)| Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)| Admin template based on Angular 10+ and Nebular |
+| [spartan](https://www.spartan.ng/)| Cutting-edge tools powering Angular full-stack development. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
